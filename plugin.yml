@@ -1,0 +1,12 @@
+name: EasySounds
+main: us.kpvpdev.easysounds.EasySounds
+version: 0.1
+author: [CakePvP, AeroPvP]
+
+commands:
+  playsound:
+    description: Play a sound to yourself/another player
+    aliases: [easysound]
+  sounds:
+    description: View available sounds
+    aliases: [easysounds]
